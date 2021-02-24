@@ -1,0 +1,19 @@
+.box1{
+  background-color: #f00;
+  height: 200px;
+  width: 200px;
+}
+
+.box1-ext{
+  border: 10px solid black;
+}
+
+.box2{
+  background-color: #0f0;
+  height: 200px;
+  width: 200px;
+}
+
+.box2-ext{
+  border: 10px solid black;
+}
